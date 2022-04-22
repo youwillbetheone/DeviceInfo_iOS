@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  DeviceInfo_iOS
 //
-//  Created by zanderdev@163.com on 04/22/2022.
-//  Copyright (c) 2022 zanderdev@163.com. All rights reserved.
+//  Created by william on 04/22/2022.
+//  Copyright (c) 2022 william. All rights reserved.
 //
 
 import UIKit
