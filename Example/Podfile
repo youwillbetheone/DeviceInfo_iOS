@@ -1,0 +1,15 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'DeviceInfo_iOS_Example' do
+  pod 'DeviceInfo_iOS', :path => '../'
+
+  target 'DeviceInfo_iOS_Tests' do
+    inherit! :search_paths
+
+    pod 'Quick', '~> 2.2.0'
+    pod 'Nimble', '~> 8.0.7'
+    pod 'FBSnapshotTestCase' , '~> 2.1.4'
+  end
+end
