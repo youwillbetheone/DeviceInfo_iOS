@@ -22,7 +22,7 @@ pod 'DeviceInfo_iOS'
 
 ## Apple Hardware Type List
 
-`ll Hardware type of Apple device.`
+`All Hardware type of Apple device.`
 
 ### iPad Airs
 | Device Name               | Internal Name (Hardware Type) |
