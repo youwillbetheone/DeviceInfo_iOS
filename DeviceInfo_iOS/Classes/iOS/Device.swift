@@ -65,6 +65,7 @@ open class Device {
         case "iPad7,5", "iPad7,6":                       return .iPad6
         case "iPad7,11", "iPad7,12":                     return .iPad7
         case "iPad11,6", "iPad11,7":                     return .iPad8
+        case "iPad12,1", "iPad12,2":                     return .iPad9
         case "iPad4,1", "iPad4,2", "iPad4,3":            return .iPadAir
         case "iPad5,3", "iPad5,4":                       return .iPadAir2
         case "iPad11,3", "iPad11,4":                     return .iPadAir3
