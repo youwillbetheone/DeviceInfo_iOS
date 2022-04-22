@@ -20,11 +20,9 @@ it, simply add the following line to your Podfile:
 pod 'DeviceInfo_iOS'
 ```
 
-#Apple Hardware Type
+## Apple Hardware Type List
 
-All Hardware type of Apple device.
-
-## Devices List 
+`ll Hardware type of Apple device.`
 
 ### iPad Airs
 | Device Name               | Internal Name (Hardware Type) |
