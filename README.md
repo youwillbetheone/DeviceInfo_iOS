@@ -120,7 +120,7 @@ pod 'DeviceInfo_iOS'
 
 ## Author
 
-zanderdev@163.com, zanderdev@163.com
+zanderdev@163.com
 
 ## License
 
