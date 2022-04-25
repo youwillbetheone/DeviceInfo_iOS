@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 You can get the type 、version 、size and some runtime performance of your device by this library.
                        DESC
 
-  s.homepage         = 'https://github.com/willbetheone/DeviceInfo_iOS'
+  s.homepage         = 'https://github.com/youwillbetheone/DeviceInfo_iOS'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'willbetheone' => 'zanderdev@163.com' }
-  s.source           = { :git => 'https://github.com/willbetheone/DeviceInfo_iOS.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/youwillbetheone/DeviceInfo_iOS.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'
