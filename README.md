@@ -119,6 +119,9 @@ pod 'DeviceInfo_iOS'
 ### 工具
 型号对应的设备查询：https://everymac.com/ultimate-mac-lookup/
 
+### 扩展
+cpu架构发展史： https://zh.m.wikipedia.org/wiki/Apple_Silicon
+
 
 ## Author
 
