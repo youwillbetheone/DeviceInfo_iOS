@@ -116,6 +116,8 @@ pod 'DeviceInfo_iOS'
 	- https://www.icode9.com/content-4-698747.html
 	- 苹果发布会汇总：https://www.theiphonewiki.com/wiki/Keynote
 
+### 工具
+型号对应的设备查询：https://everymac.com/ultimate-mac-lookup/
 
 
 ## Author
