@@ -145,3 +145,24 @@ DeviceInfo_iOS is available under the MIT license. See the LICENSE file for more
 | iPad (1rd generation)      | iPad1,1                            | iPad 1                             |
 | iPad (2rd generation)      | iPad2,1, iPad2,2, iPad2,3, iPad2,4 | iPad 2                             |
 
+
+iPad Mini 1
+iPad Mini 2
+iPad mini 3
+iPad mini 4
+iPad Air
+iPad Air 2
+iPad 1
+iPad 2
+iPad 3
+iPad 4
+iPad 5
+iPad Pro (9.7-inch)
+iPad Pro (10.5-inch)
+iPad Pro (11-inch)
+iPad Pro (12.9-inch)
+iPad Pro 2(12.9-inch)
+iPad Pro 2 (11-inch)
+
+iPad Mini 1,iPad Mini 2,iPad mini 3,iPad mini 4,iPad Air,iPad Air 2,iPad 1,iPad 2,iPad 3,iPad 4,iPad 5,iPad Pro (9.7-inch),iPad Pro (10.5-inch),iPad Pro (11-inch),iPad Pro (12.9-inch),iPad Pro 2(12.9-inch),iPad Pro 2 (11-inch)
+
