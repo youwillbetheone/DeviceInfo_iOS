@@ -133,7 +133,7 @@ zanderdev@163.com
 DeviceInfo_iOS is available under the MIT license. See the LICENSE file for more info.
 
 
-### iPads 低端机
+### iPad minis、iPad Airs 、iPads 低端机
 | Device Name                | Internal Name (Hardware Type)      | External Name (Hardware Type)      |
 |:---------------------------|------------------------------------|------------------------------------|
 | iPad mini (1th generation) | iPad2,5, iPad2,6, iPad2,7          | iPad Mini 1                        | 
