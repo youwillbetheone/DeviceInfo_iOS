@@ -108,6 +108,7 @@ pod 'DeviceInfo_iOS'
 | iPhone 13 Pro Max             | iPhone14,3                            |
 
 
+
 - 参考:
 	- 官网比较iPad所有机型：https://www.apple.com.cn/ipad/compare/
 	- Wiki更为详细的iPad机型信息：https://www.theiphonewiki.com/wiki/List_of_iPads
@@ -130,3 +131,17 @@ zanderdev@163.com
 ## License
 
 DeviceInfo_iOS is available under the MIT license. See the LICENSE file for more info.
+
+
+### iPads 低端机
+| Device Name                | Internal Name (Hardware Type)      | External Name (Hardware Type)      |
+|:---------------------------|------------------------------------|------------------------------------|
+| iPad mini (1th generation) | iPad2,5, iPad2,6, iPad2,7          | iPad Mini 1                        | 
+| iPad mini (2th generation) | iPad4,4, iPad4,5, iPad4,6          | iPad Mini 2                        | 
+| iPad mini (3th generation) | iPad4,7, iPad4,8, iPad4,9          | iPad mini 3                        |
+| iPad mini (4th generation) | iPad5,1, iPad5,2                   | iPad mini 4                        |
+| iPad Air (1rd generation)  | iPad4,1, iPad4,2, iPad4,3          | iPad Air                           |
+| iPad Air (2rd generation)  | iPad5,3, iPad5,4                   | iPad Air 2                         |
+| iPad (1rd generation)      | iPad1,1                            | iPad 1                             |
+| iPad (2rd generation)      | iPad2,1, iPad2,2, iPad2,3, iPad2,4 | iPad 2                             |
+
