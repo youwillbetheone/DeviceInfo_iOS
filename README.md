@@ -119,7 +119,7 @@ pod 'DeviceInfo_iOS'
 
 ### 工具
 型号对应的设备查询：https://everymac.com/ultimate-mac-lookup/
-官方发布时间：https://support.apple.com/en-us/HT201471
+如何识别机型，官方识别机型地址：https://support.apple.com/en-us/HT201471
 
 ### 扩展
 cpu架构发展史： https://zh.m.wikipedia.org/wiki/Apple_Silicon
