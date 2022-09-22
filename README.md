@@ -122,7 +122,7 @@ pod 'DeviceInfo_iOS'
 
 ### 扩展
 cpu架构发展史： https://zh.m.wikipedia.org/wiki/Apple_Silicon
-
+ios-resolution：https://www.ios-resolution.com
 
 ## Author
 
