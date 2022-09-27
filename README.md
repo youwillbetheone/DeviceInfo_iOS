@@ -122,9 +122,10 @@ pod 'DeviceInfo_iOS'
 如何识别机型，官方识别机型地址：https://support.apple.com/en-us/HT201471
 
 ### 扩展
-cpu架构发展史： https://zh.m.wikipedia.org/wiki/Apple_Silicon
-ios-resolution：https://www.ios-resolution.com
+- cpu架构发展史： https://zh.m.wikipedia.org/wiki/Apple_Silicon
+- ios-resolution：https://www.ios-resolution.com
 
+- 系统历史版本：https://en.wikipedia.org/wiki/IOS_version_history
 
 
 ## Author
@@ -147,6 +148,7 @@ DeviceInfo_iOS is available under the MIT license. See the LICENSE file for more
 | iPad Air (2rd generation)  | iPad5,3, iPad5,4                   | iPad Air 2                         |
 | iPad (1rd generation)      | iPad1,1                            | iPad 1                             |
 | iPad (2rd generation)      | iPad2,1, iPad2,2, iPad2,3, iPad2,4 | iPad 2                             |
+
 
 
 iPad Mini 1
