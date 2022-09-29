@@ -110,7 +110,7 @@ pod 'DeviceInfo_iOS'
 
 
 - 参考:
-	- 官网比较iPad所有机型：https://www.apple.com.cn/ipad/compare/
+	- 官网iPad所有机型：https://www.apple.com.cn/ipad/compare/
 	- Wiki更为详细的iPad机型信息：https://www.theiphonewiki.com/wiki/List_of_iPads
 	- 苹果所有设备目录wiki：https://www.theiphonewiki.com/wiki/Category:Devices
 	- https://kylebing.cn/tools/ipad/
