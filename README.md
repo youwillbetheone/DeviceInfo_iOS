@@ -171,3 +171,4 @@ iPad Pro 2 (11-inch)
 
 iPad Mini 1,iPad Mini 2,iPad mini 3,iPad mini 4,iPad Air,iPad Air 2,iPad 1,iPad 2,iPad 3,iPad 4,iPad 5,iPad Pro (9.7-inch),iPad Pro (10.5-inch),iPad Pro (11-inch),iPad Pro (12.9-inch),iPad Pro 2(12.9-inch),iPad Pro 2 (11-inch)
 
+https://en.wikipedia.org/wiki/List_of_iOS,_iPadOS,_tvOS,_and_watchOS_devices#iPhone
